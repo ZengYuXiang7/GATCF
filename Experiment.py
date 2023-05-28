@@ -118,7 +118,6 @@ def run(log, args):
 def main(log, args):
     log(str(args))
 
-    # print(torch.__version__)
     # 设定时间种子
     seed = int(time()) % 2023 if args.random_state is None else args.random_state
     set_seed(seed)
