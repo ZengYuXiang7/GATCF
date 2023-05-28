@@ -154,10 +154,10 @@ if __name__ == '__main__':
     parser.add_argument('--dataset', type=str, default='rt')
     parser.add_argument('--MaxBlockBack', type=int, default=100)
     parser.add_argument('--MaxRTT', type=int, default=5000)
-    parser.add_argument('--density', type=float, default=0.10)
+    parser.add_argument('--density', type=float, default=0.05)
     parser.add_argument('--interaction', type=str, default='GATMF')
     # 实验常用
-    parser.add_argument('--rounds', type=int, default=1)
+    parser.add_argument('--rounds', type=int, default=20)
     parser.add_argument('--epochs', type=int, default=100)
     parser.add_argument('--lr', type=float, default=1e-2)
     parser.add_argument('--decay', type=float, default=1e-3)
