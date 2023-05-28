@@ -1,0 +1,101 @@
+,addr,as,city,country,countryCode,isp,lat,lon,org,query,region,regionName,status,timezone,zip
+0,146.57.249.99,AS217 University of Minnesota,Willmar,United States,US,University of Minnesota,45.1386,-95.0525,University of Minnesota,146.57.249.99,MN,Minnesota,success,America/Chicago,56201
+1,207.148.15.13,"AS20473 Choopa, LLC",Elk Grove Village,United States,US,Choopa,42.0048,-87.9954,"Vultr Holdings, LLC",207.148.15.13,IL,Illinois,success,America/Chicago,60007
+2,195.113.161.84,AS2852 CESNET z.s.p.o.,Pilsen,Czechia,CZ,CESNET-TCZ,49.7705,13.3689,,195.113.161.84,32,Plzensky kraj,success,Europe/Prague,323 00
+3,149.28.149.145,"AS20473 Choopa, LLC",Queenstown Estate,Singapore,SG,Choopa,1.29544,103.79,"Vultr Holdings, LLC",149.28.149.145,,,success,Asia/Singapore,139964
+4,146.57.249.98,AS217 University of Minnesota,Willmar,United States,US,University of Minnesota,45.1386,-95.0525,University of Minnesota,146.57.249.98,MN,Minnesota,success,America/Chicago,56201
+5,202.112.28.98,AS24364 CERNET2 IX at Shanghai Jiaotong University,Haidian,China,CN,CERBKB,40.0018,116.332,,202.112.28.98,BJ,Beijing,success,Asia/Shanghai,
+6,203.246.112.148,AS18176 KOOKMIN UNIVERSITY,Cheongdam-dong,South Korea,KR,KREN,37.5257,127.053,Kookmin University,203.246.112.148,11,Seoul,success,Asia/Seoul,05111
+7,195.113.161.82,AS2852 CESNET z.s.p.o.,Pilsen,Czechia,CZ,CESNET-TCZ,49.7705,13.3689,,195.113.161.82,32,Plzensky kraj,success,Europe/Prague,323 00
+8,129.22.150.78,AS32666 Case Western Reserve University,Stow,United States,US,Case Western Reserve University,41.1701,-81.4424,Case Western Reserve University,129.22.150.78,OH,Ohio,success,America/New_York,44224
+9,129.110.125.51,AS20162 University of Texas at Dallas,Richardson,United States,US,University of Texas at Dallas,32.9858,-96.7501,University of Texas at Dallas,129.110.125.51,TX,Texas,success,America/Chicago,75083
+10,216.48.80.12,AS25826 University of Ottawa,Ottawa,Canada,CA,University of Ottawa,45.4336,-75.6825,University of Ottawa,216.48.80.12,ON,Ontario,success,America/Toronto,K1N
+11,107.191.63.10,"AS20473 Choopa, LLC",Saint-Denis,France,FR,Choopa,48.9335,2.3661,"Vultr Holdings, LLC",107.191.63.10,IDF,Île-de-France,success,Europe/Paris,93200
+12,199.247.10.253,"AS20473 Choopa, LLC",Aubervilliers,France,FR,"Choopa, LLC",48.9067,2.36783,Vultr Holdings LLC Paris,199.247.10.253,IDF,Île-de-France,success,Europe/Paris,93300
+13,217.69.12.64,"AS20473 Choopa, LLC",Aubervilliers,France,FR,"Choopa, LLC",48.9067,2.36783,Vultr Holdings LLC Paris,217.69.12.64,IDF,Île-de-France,success,Europe/Paris,93300
+14,131.179.150.70,"AS52 University of California, Los Angeles",Los Angeles,United States,US,"University of California, Los Angeles",34.0675,-118.447,"University of California, Los Angeles",131.179.150.70,CA,California,success,America/Los_Angeles,90095
+15,129.97.74.12,AS12093 University of Waterloo,Waterloo,Canada,CA,University of Waterloo,43.474,-80.554,University of Waterloo,129.97.74.12,ON,Ontario,success,America/Toronto,N2L
+16,207.148.104.195,"AS20473 Choopa, LLC",Heiwajima,Japan,JP,"Choopa, LLC",35.5819,139.7663,TYO Vultr,207.148.104.195,13,Tokyo,success,Asia/Tokyo,143-0001
+17,108.61.212.199,"AS20473 Choopa, LLC",Alexandria,Australia,AU,Choopa,-33.9256,151.1906,"Vultr Holdings, LLC",108.61.212.199,NSW,New South Wales,success,Australia/Sydney,2015
+18,198.108.101.61,AS237 Merit Network Inc.,Milan,United States,US,Merit Network Inc.,42.0914,-83.6776,Merit Network Inc.,198.108.101.61,MI,Michigan,success,America/Detroit,48160
+19,217.69.9.150,"AS20473 Choopa, LLC",Aubervilliers,France,FR,"Choopa, LLC",48.9067,2.36783,Vultr Holdings LLC Paris,217.69.9.150,IDF,Île-de-France,success,Europe/Paris,93300
+20,149.28.206.144,"AS20473 Choopa, LLC",San Jose,United States,US,Choopa,37.3387,-121.8914,"Vultr Holdings, LLC",149.28.206.144,CA,California,success,America/Los_Angeles,95113
+21,134.117.226.181,AS29773 Carleton University,Ottawa,Canada,CA,Carleton University,45.3973,-75.6883,Carleton University,134.117.226.181,ON,Ontario,success,America/Toronto,K1S
+22,140.82.62.166,"AS20473 Choopa, LLC",Piscataway,United States,US,Choopa,40.5511,-74.4606,"Vultr Holdings, LLC",140.82.62.166,NJ,New Jersey,success,America/New_York,08854
+23,153.90.1.35,AS13476 Montana State University,Bozeman,United States,US,Montana State University,45.6684,-111.2422,Montana State University,153.90.1.35,MT,Montana,success,America/Denver,59718
+24,199.247.22.195,"AS20473 Choopa, LLC",Frankfurt am Main,Germany,DE,"Choopa, LLC",50.1103,8.7147,Vultr Holdings LLC Frankfurt,199.247.22.195,HE,Hesse,success,Europe/Berlin,60314
+25,170.140.119.70,AS3512 Emory University,Atlanta,United States,US,Emory University,33.7855,-84.3612,Emory University,170.140.119.70,GA,Georgia,success,America/New_York,30306
+26,120.236.174.143,AS56040 China Mobile communications corporation,Guangzhou,China,CN,China Mobile communications corporation,23.1167,113.25,China Mobile,120.236.174.143,GD,Guangdong,success,Asia/Shanghai,
+27,134.117.226.180,AS29773 Carleton University,Ottawa,Canada,CA,Carleton University,45.3973,-75.6883,Carleton University,134.117.226.180,ON,Ontario,success,America/Toronto,K1S
+28,141.212.114.36,AS36375 University of Michigan,Ann Arbor,United States,US,University of Michigan,42.2709,-83.7268,University of Michigan College of Engineering,141.212.114.36,MI,Michigan,success,America/Detroit,48104
+29,200.19.159.34,AS1916 Associação Rede Nacional de Ensino e Pesquisa,Belo Horizonte,Brazil,BR,Associação Rede Nacional de Ensino e Pesquisa,-19.9245,-43.9352,Associação Rede Nacional de Ensino e Pesquisa,200.19.159.34,MG,Minas Gerais,success,America/Sao_Paulo,30000-000
+30,80.240.27.210,"AS20473 Choopa, LLC",Frankfurt am Main,Germany,DE,"Choopa, LLC",50.1202,8.73361,Vultr Holdings LLC Frankfurt,80.240.27.210,HE,Hesse,success,Europe/Berlin,60314
+31,128.208.4.198,AS73 University of Washington,Seattle,United States,US,University of Washington,47.6859,-122.2994,University of Washington,128.208.4.198,WA,Washington,success,America/Los_Angeles,98115
+32,66.42.65.226,"AS20473 Choopa, LLC",Seattle,United States,US,Choopa,47.6144,-122.3447,"Vultr Holdings, LLC",66.42.65.226,WA,Washington,success,America/Los_Angeles,98121
+33,200.19.159.35,AS1916 Associação Rede Nacional de Ensino e Pesquisa,Belo Horizonte,Brazil,BR,Associação Rede Nacional de Ensino e Pesquisa,-19.9245,-43.9352,Associação Rede Nacional de Ensino e Pesquisa,200.19.159.35,MG,Minas Gerais,success,America/Sao_Paulo,30000-000
+34,141.212.114.223,AS36375 University of Michigan,Ann Arbor,United States,US,University of Michigan,42.2709,-83.7268,University of Michigan College of Engineering,141.212.114.223,MI,Michigan,success,America/Detroit,48104
+35,137.132.80.110,AS7472 NUS Information Technology,Queenstown Estate,Singapore,SG,National University of Singapore,1.29754,103.772,National University of Singapore,137.132.80.110,,,success,Asia/Singapore,
+36,192.107.171.147,AS681 The University of Waikato,Hamilton,New Zealand,NZ,The University of Waikato,-37.7869,175.318,The University of Waikato,192.107.171.147,WKO,Waikato,success,Pacific/Auckland,3216
+37,208.94.63.194,AS46357 California Polytechnic State University,San Luis Obispo,United States,US,California Polytechnic State University,35.3027,-120.658,California Polytechnic State University,208.94.63.194,CA,California,success,America/Los_Angeles,93407
+38,103.49.160.131,AS3661 The Chinese University of Hong Kong,Shatin,Hong Kong,HK,The Chinese University of Hong Kong,22.4237,114.201,Chinese University of Hong Kong (The),103.49.160.131,NST,Sha Tin,success,Asia/Hong_Kong,
+39,128.208.4.197,AS73 University of Washington,Seattle,United States,US,University of Washington,47.6859,-122.2994,University of Washington,128.208.4.197,WA,Washington,success,America/Los_Angeles,98115
+40,206.117.37.4,AS4 University of Southern California,Los Angeles,United States,US,University of Southern California,34.0522,-118.244,Los Nettos,206.117.37.4,CA,California,success,America/Los_Angeles,90009
+41,142.103.2.2,AS393249 University of British Columbia,Vancouver,Canada,CA,University of British Columbia,49.2656,-123.255,University of British Columbia,142.103.2.2,BC,British Columbia,success,America/Vancouver,V6T
+42,149.28.10.131,"AS20473 Choopa, LLC",Seattle,United States,US,"Choopa, LLC",47.6144,-122.3447,"Choopa, LLC",149.28.10.131,WA,Washington,success,America/Los_Angeles,98121
+43,130.194.252.9,"AS56132 Monash University,",East Malvern,Australia,AU,Monash University,-37.881,145.0627,Monash University,130.194.252.9,VIC,Victoria,success,Australia/Melbourne,3145
+44,165.230.49.118,AS46 Rutgers University,Township of Piscataway,United States,US,Rutgers University,40.5209,-74.4612,Rutgers University,165.230.49.118,NJ,New Jersey,success,America/New_York,08854-8089
+45,192.33.90.67,AS559 SWITCH,Zurich,Switzerland,CH,ETH-NETx,47.3764,8.54799,Swiss Federal Institute of Technology Zurich,192.33.90.67,ZH,Zurich,success,Europe/Zurich,8092
+46,128.223.8.113,AS3582 University of Oregon,Eugene,United States,US,University of Oregon,44.0683,-123.0763,University of Oregon,128.223.8.113,OR,Oregon,success,America/Los_Angeles,97401
+47,199.247.10.42,"AS20473 Choopa, LLC",Aubervilliers,France,FR,"Choopa, LLC",48.9067,2.36783,Vultr Holdings LLC Paris,199.247.10.42,IDF,Île-de-France,success,Europe/Paris,93300
+48,130.194.252.8,"AS56132 Monash University,",East Malvern,Australia,AU,Monash University,-37.881,145.0627,Monash University,130.194.252.8,VIC,Victoria,success,Australia/Melbourne,3145
+49,128.8.126.111,AS27 University of Maryland,College Park,United States,US,University of Maryland,38.994,-76.9519,University of Maryland,128.8.126.111,MD,Maryland,success,America/New_York,20742
+50,8.6.8.212,"AS20473 Choopa, LLC",Los Angeles,United States,US,"Choopa, LLC",34.0729,-118.2606,Level 3,8.6.8.212,CA,California,success,America/Los_Angeles,90012
+51,194.29.178.14,AS12464 Politechnika Warszawska,Warsaw,Poland,PL,WARSAW U-TECH Campus Network,52.2204,21.0105,Politechnika Warszawska,194.29.178.14,14,Mazovia,success,Europe/Warsaw,00-666
+52,45.32.247.228,"AS20473 Choopa, LLC",Alexandria,Australia,AU,Choopa,-33.9256,151.1906,"Vultr Holdings, LLC",45.32.247.228,NSW,New South Wales,success,Australia/Sydney,2015
+53,66.42.96.156,"AS20473 Choopa, LLC",Los Angeles,United States,US,Choopa,34.0729,-118.2606,"Vultr Holdings, LLC",66.42.96.156,CA,California,success,America/Los_Angeles,90012
+54,129.110.125.52,AS20162 University of Texas at Dallas,Richardson,United States,US,University of Texas at Dallas,32.9858,-96.7501,University of Texas at Dallas,129.110.125.52,TX,Texas,success,America/Chicago,75083
+55,198.133.224.147,AS59 University of Wisconsin Madison,Madison,United States,US,Computer Sciences Department University of Wisconsin Madison,43.0714,-89.4066,Computer Sciences Department University of Wisconsin Madison,198.133.224.147,WI,Wisconsin,success,America/Chicago,53706
+56,144.202.111.88,"AS20473 Choopa, LLC",San Jose,United States,US,Choopa,37.3387,-121.8914,"Vultr Holdings, LLC",144.202.111.88,CA,California,success,America/Los_Angeles,95113
+57,200.17.202.195,AS10881 FUNPAR - Fundacao da UFPR para o DCTC,Curitiba,Brazil,BR,FUNPAR - Fundacao da UFPR para o DCTC,-25.5026,-49.2916,UFPR (Universidade Federal do Paraná),200.17.202.195,PR,Parana,success,America/Sao_Paulo,80000
+58,45.76.97.130,"AS20473 Choopa, LLC",Heiwajima,Japan,JP,Choopa,35.5819,139.7663,"Vultr Holdings, LLC",45.76.97.130,13,Tokyo,success,Asia/Tokyo,143-0001
+59,144.202.80.26,"AS20473 Choopa, LLC",Seattle,United States,US,Choopa,47.6144,-122.3447,"Vultr Holdings, LLC",144.202.80.26,WA,Washington,success,America/Los_Angeles,98121
+60,120.236.174.141,AS56040 China Mobile communications corporation,Guangzhou,China,CN,China Mobile communications corporation,23.1167,113.25,China Mobile,120.236.174.141,GD,Guangdong,success,Asia/Shanghai,
+61,200.129.132.19,AS1916 Associação Rede Nacional de Ensino e Pesquisa,Belém,Brazil,BR,Associação Rede Nacional de Ensino e Pesquisa,-1.3446,-48.419,Associação Rede Nacional de Ensino e Pesquisa,200.129.132.19,PA,Para,success,America/Belem,66000
+62,66.42.53.96,"AS20473 Choopa, LLC",New York,United States,US,"Choopa, LLC",40.7128,-74.006,"Choopa, LLC",66.42.53.96,NY,New York,success,America/New_York,10123
+63,207.148.27.64,"AS20473 Choopa, LLC",Piscataway,United States,US,Choopa,40.5511,-74.4606,"Vultr Holdings, LLC",207.148.27.64,NJ,New Jersey,success,America/New_York,08854
+64,104.238.151.15,"AS20473 Choopa, LLC",Heiwajima,Japan,JP,Choopa,35.5819,139.7663,"Vultr Holdings, LLC",104.238.151.15,13,Tokyo,success,Asia/Tokyo,143-0001
+65,137.132.80.106,AS7472 NUS Information Technology,Queenstown Estate,Singapore,SG,National University of Singapore,1.29754,103.772,National University of Singapore,137.132.80.106,,,success,Asia/Singapore,
+66,149.28.120.22,"AS20473 Choopa, LLC",Elk Grove Village,United States,US,Choopa,42.0048,-87.9954,"Vultr Holdings, LLC",149.28.120.22,IL,Illinois,success,America/Chicago,60007
+67,200.129.132.18,AS1916 Associação Rede Nacional de Ensino e Pesquisa,Belém,Brazil,BR,Associação Rede Nacional de Ensino e Pesquisa,-1.3446,-48.419,Associação Rede Nacional de Ensino e Pesquisa,200.129.132.18,PA,Para,success,America/Belem,66000
+68,120.236.174.140,AS56040 China Mobile communications corporation,Guangzhou,China,CN,China Mobile communications corporation,23.1167,113.25,China Mobile,120.236.174.140,GD,Guangdong,success,Asia/Shanghai,
+69,131.179.150.72,"AS52 University of California, Los Angeles",Los Angeles,United States,US,"University of California, Los Angeles",34.0675,-118.447,"University of California, Los Angeles",131.179.150.72,CA,California,success,America/Los_Angeles,90095
+70,170.140.119.69,AS3512 Emory University,Atlanta,United States,US,Emory University,33.7855,-84.3612,Emory University,170.140.119.69,GA,Georgia,success,America/New_York,30306
+71,129.32.84.160,AS3778 Temple University,Philadelphia,United States,US,Temple University,39.9804,-75.1534,Temple University,129.32.84.160,PA,Pennsylvania,success,America/New_York,19122
+72,95.179.153.121,"AS20473 Choopa, LLC",Haarlem,Netherlands,NL,"Choopa, LLC",52.3914,4.66291,Vultr Holdings LLC Amsterdam,95.179.153.121,NH,North Holland,success,Europe/Amsterdam,2031
+73,204.8.155.226,AS10961 Boston GigaPoP,Boston,United States,US,Boston GigaPoP,42.3427,-71.0922,Boston University,204.8.155.226,MA,Massachusetts,success,America/New_York,02115
+74,192.107.171.145,AS681 The University of Waikato,Hamilton,New Zealand,NZ,The University of Waikato,-37.7869,175.318,The University of Waikato,192.107.171.145,WKO,Waikato,success,Pacific/Auckland,3216
+75,202.112.28.100,AS24364 CERNET2 IX at Shanghai Jiaotong University,Haidian,China,CN,CERBKB,40.0018,116.332,,202.112.28.100,BJ,Beijing,success,Asia/Shanghai,
+76,134.197.113.3,AS3851 Nevada System of Higher Education,Reno,United States,US,Nevada System of Higher Education,39.5242,-119.8146,"University of Nevada, Reno",134.197.113.3,NV,Nevada,success,America/Los_Angeles,89557
+77,120.236.174.136,AS56040 China Mobile communications corporation,Guangzhou,China,CN,China Mobile communications corporation,23.1167,113.25,China Mobile,120.236.174.136,GD,Guangdong,success,Asia/Shanghai,
+78,66.42.98.223,"AS20473 Choopa, LLC",Los Angeles,United States,US,Choopa,34.0729,-118.2606,"Vultr Holdings, LLC",66.42.98.223,CA,California,success,America/Los_Angeles,90012
+79,103.49.160.132,AS3661 The Chinese University of Hong Kong,Shatin,Hong Kong,HK,The Chinese University of Hong Kong,22.4237,114.201,Chinese University of Hong Kong (The),103.49.160.132,NST,Sha Tin,success,Asia/Hong_Kong,
+80,204.8.155.227,AS10961 Boston GigaPoP,Boston,United States,US,Boston GigaPoP,42.3427,-71.0922,Boston University,204.8.155.227,MA,Massachusetts,success,America/New_York,02115
+81,45.76.26.130,"AS20473 Choopa, LLC",Elk Grove Village,United States,US,Choopa,42.0048,-87.9954,"Vultr Holdings, LLC",45.76.26.130,IL,Illinois,success,America/Chicago,60007
+82,95.179.159.222,"AS20473 Choopa, LLC",Haarlem,Netherlands,NL,"Choopa, LLC",52.3914,4.66291,Vultr Holdings LLC Amsterdam,95.179.159.222,NH,North Holland,success,Europe/Amsterdam,2031
+83,45.32.150.45,"AS20473 Choopa, LLC",Aubervilliers,France,FR,Choopa,48.9163,2.3869,"Vultr Holdings, LLC",45.32.150.45,IDF,Île-de-France,success,Europe/Paris,93300
+84,207.246.84.42,"AS20473 Choopa, LLC",Piscataway,United States,US,Choopa,40.5511,-74.4606,"Vultr Holdings, LLC",207.246.84.42,NJ,New Jersey,success,America/New_York,08854
+85,66.42.62.77,"AS20473 Choopa, LLC",New York,United States,US,"Choopa, LLC",40.7128,-74.006,"Choopa, LLC",66.42.62.77,NY,New York,success,America/New_York,10123
+86,142.103.2.1,AS393249 University of British Columbia,Vancouver,Canada,CA,University of British Columbia,49.2656,-123.255,University of British Columbia,142.103.2.1,BC,British Columbia,success,America/Vancouver,V6T
+87,149.28.176.139,"AS20473 Choopa, LLC",Alexandria,Australia,AU,Choopa,-33.9256,151.1906,"Vultr Holdings, LLC",149.28.176.139,NSW,New South Wales,success,Australia/Sydney,2015
+88,128.10.18.52,AS17 Purdue University,West Lafayette,United States,US,Purdue University,40.4444,-86.9256,Purdue University,128.10.18.52,IN,Indiana,success,America/Indiana/Indianapolis,47906
+89,45.77.141.102,"AS20473 Choopa, LLC",Frankfurt am Main,Germany,DE,Choopa,50.1103,8.7147,"Vultr Holdings, LLC",45.77.141.102,HE,Hesse,success,Europe/Berlin,60314
+90,206.117.37.7,AS4 University of Southern California,Los Angeles,United States,US,University of Southern California,34.0522,-118.244,Los Nettos,206.117.37.7,CA,California,success,America/Los_Angeles,90009
+91,133.69.32.131,AS7660 Asia Pacific Advanced Network - Japan,Chiyoda,Japan,JP,Asia Pacific Advanced Network - Japan,35.6906,139.77,,133.69.32.131,13,Tokyo,success,Asia/Tokyo,100-0001
+92,128.223.8.111,AS3582 University of Oregon,Eugene,United States,US,University of Oregon,44.0683,-123.0763,University of Oregon,128.223.8.111,OR,Oregon,success,America/Los_Angeles,97401
+93,204.85.191.11,AS36850 University of North Carolina at Chapel Hill,Chapel Hill,United States,US,University of North Carolina at Chapel Hill,35.9151,-79.0972,North Carolina Research and Education Network,204.85.191.11,NC,North Carolina,success,America/New_York,27516
+94,128.208.4.99,AS73 University of Washington,Seattle,United States,US,University of Washington,47.6859,-122.2994,University of Washington,128.208.4.99,WA,Washington,success,America/Los_Angeles,98115
+95,165.230.49.114,AS46 Rutgers University,Township of Piscataway,United States,US,Rutgers University,40.5209,-74.4612,Rutgers University,165.230.49.114,NJ,New Jersey,success,America/New_York,08854-8089
+96,155.225.2.72,AS53257 The Citadel,Charleston,United States,US,The Citadel,32.799,-79.9571,The Citadel,155.225.2.72,SC,South Carolina,success,America/New_York,29409
+97,204.85.191.10,AS36850 University of North Carolina at Chapel Hill,Chapel Hill,United States,US,University of North Carolina at Chapel Hill,35.9151,-79.0972,North Carolina Research and Education Network,204.85.191.10,NC,North Carolina,success,America/New_York,27516
+98,199.247.27.122,"AS20473 Choopa, LLC",Amsterdam,Netherlands,NL,"Choopa, LLC",52.3891,4.6563,Vultr Holdings LLC Amsterdam,199.247.27.122,NH,North Holland,success,Europe/Amsterdam,2031
+99,128.10.18.53,AS17 Purdue University,West Lafayette,United States,US,Purdue University,40.4444,-86.9256,Purdue University,128.10.18.53,IN,Indiana,success,America/Indiana/Indianapolis,47906
